@@ -1,3 +1,4 @@
 
 streamlit==1.19.0
-googletrans==4.0.0-rc1
+googletrans==4.0.0rc1
+altair==5.4.1
